@@ -43,10 +43,36 @@ const theme = createTheme({
         fontWeightRegular: 400,
         fontWeightMedium: 500,
         fontWeightBold: 700,
-    },
+
+        h1: {
+            fontSize: "42px",
+        },
+        h2: {
+            fontSize: "32px",
+
+        },
+        h3: {
+            fontSize: "24px",
+        },
+        h4: {
+            fontSize: "20px",
+        },
+        h5: {
+            fontSize: "18px",
+        },
+        h6: {
+            fontSize: "16px",
+        },
+        body1: {
+            fontSize: "16px",
+        },
+        body2: {
+            fontSize: "14px",
+        },
+    },    
     components: {
         ...components,
-    }
+    },
 });
 
 export default theme;
