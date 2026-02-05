@@ -10,6 +10,10 @@ const Header = () => {
                     <Typography variant="h6">MyWallet</Typography>
                 </Box>
             </Link>
+            <Box>
+                
+            </Box>
+
             
 
 
