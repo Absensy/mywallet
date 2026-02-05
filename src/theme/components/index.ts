@@ -1,5 +1,5 @@
 import {Components } from "@mui/material/styles";
-import MuiButton from "@mui/material/Button";
+import MuiButton from "./MuiButton";
 
 
 const components: Components = { 
